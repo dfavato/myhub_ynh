@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display after upgrades
+Upgrade complete! The dashboard has been regenerated with the latest changes.

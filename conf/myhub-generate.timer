@@ -1,0 +1,10 @@
+[Unit]
+Description=MyHub daily generation timer (5:00 AM)
+
+[Timer]
+OnCalendar=*-*-* 05:00:00
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target

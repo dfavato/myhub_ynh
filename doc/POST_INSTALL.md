@@ -1,7 +1,7 @@
-This is a dummy disclaimer to display after the install
+The installation is complete!
 
-The app url is <https://__DOMAIN____PATH__>
+Your dashboard is available at: **<https://__DOMAIN____PATH__>**
 
-The app install dir is `__INSTALL_DIR__`
+The dashboard is automatically updated daily at 5:00 AM.
 
-The app id is `__ID__`
+If you configured an API-Football key, the sports section will show recent match results for Cruzeiro and Seleção Brasileira.

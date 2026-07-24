@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display prior to any upgrade
+Upgrading MyHub... Your data (weather history and sports data) will be preserved.
